@@ -122,7 +122,7 @@ p{
   }
 
   #section-a .content-text{
-   columns:  
+   columns:  2;
   }
 
   .content-wrap, #section-b ul{
